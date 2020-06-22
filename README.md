@@ -1,0 +1,1 @@
+[Magic8](https://lajohnson.gitlab.io/magic8 "Magic * io page")
