@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Monofett&family=Press+Start+2P&display=swap');
+
+:root {
+background: rgb(35,35,36);
+background: linear-gradient(90deg, rgba(35,35,36,1) 0%, rgba(0,0,0,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+h1 {
+  font-family: 'Monofett', cursive, sans-serif;
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  text-shadow: 3px 3px 6px #f8f8ff;
+}
+
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+#pic {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#textInput {
+  background-color: #f8f8ff;
+  border: 5px double black;
+  border-radius: 5px;
+}
+
+#magicAnswer, ul {
+  display: flex;
+  justify-content: center;
+  color: #f8f8ff;
+  font-family: 'Press Start 2P', cursive, sans-serif;
+}
+
+#clicker {
+  border: none;
+  border-radius: 2px;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: rgb(35,35,36);
+  color: #f8f8ff;
+}
+
